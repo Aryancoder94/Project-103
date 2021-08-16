@@ -1,0 +1,25 @@
+
+
+body{
+    color: blue;
+    background-color: lightsalmon;
+}
+.heading{
+    width: 80%;
+    font-size: 30px;
+    font-weight: bold;
+    color: darkolivegreen ;
+    font-family: cursive;
+    font-style: italic;
+}
+.name-of-object,#result-object-name,#result-object-accuracy{
+    font-size: 25px;
+    color: maroon;
+    font-family: cursive;
+    font-style: italic;
+}
+#camera{
+    width: 450px;
+    height: 400px;
+    border: 5px solid rgb(14, 133, 97);
+}
